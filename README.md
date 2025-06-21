@@ -1,4 +1,4 @@
-## 🌐 Personal Portfolio Website
+## 🌐 My Portfolio Website
 
 This is a simple personal portfolio website built using **HTML** and **basic CSS**, featuring two main pages: a **Home** page and a **Contact** page. It serves as a basic introduction to my skills and a way for visitors to get in touch.
 
